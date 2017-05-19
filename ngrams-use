@@ -1,0 +1,1 @@
+python ngrams.py cause_proj.txt > cause_proj_out.txt
